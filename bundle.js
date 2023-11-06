@@ -313,7 +313,7 @@
                     }, " ", "Designed and Coded by ", React.createElement("br", null), React.createElement("a", {
                         href: "https://github.com/NavalNavigator",
                         target: "_blank"
-                    }, "Eyob Geletu")), React.createElement("audio", {
+                    }, "NavalNavigator")), React.createElement("audio", {
                         id: "beep",
                         preload: "auto",
                         ref: function (t) {
